@@ -7,3 +7,6 @@ Usage:
 2. Download it and rename it to gap.c
 3. Replace the original gap.c file on the firmware with the one you just got
 4. Compile the flipper zero firmware and upload it to the device via qFlipper
+
+
+For more information check out the article: https://dionmulaj.medium.com/adv-packets-spoofing-on-apple-devices-via-ble-20f86cc6bf06
